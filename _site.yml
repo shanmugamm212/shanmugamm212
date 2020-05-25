@@ -4,7 +4,7 @@ navbar:
   title: "Shanmugam Marimuthu"
   left:
     - text: "Resume"
-      href: projects.html
+      href: cv.html
     - text: "Projects"
       href: https://github.com/shanmugamm212/Data-Science-Portfolio
 
