@@ -1,0 +1,81 @@
+---
+---
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="files/milford_sound.jpg">
+
+<br>
+
+<h3>Research Data Scientist with over a decade of experimentation and modeling experience: 10 years in R and 8 in Python. Please reach out to me for a complete resume. </h3>
+
+<h3>PROFESSIONAL EXPERIENCE:</h3>
+
+<h4>Amazon</h4>
+
+  <p class="tab">Research Data Scientist, Alexa (September 2017 – present)</p>
+  
+  <p class="tab">Environmental Data Scientist (December 2016 – September 2017)</p>
+  
+<h4>RTI International</h4>
+
+  <p class="tab">Environmental Data Scientist, RTI International (October 2014 – Dec 2016)</p>
+
+<h4>US Environmental Protection Agency</h4>
+
+  <p class="tab">Geospatial Modeling Fellow for the EnviroAtlas Project (May 2011 – Sept 2014)</p>
+  
+<h4>Commission for Environmental Cooperation</h4>
+   <p class="tab">Consultant (Nov. 2012 to May 2013)</p>
+
+<h4>Nicholas Institute for Environmental Policy Solutions at Duke University</h4>
+  
+  <p class="tab">Policy Research Associate (May 2010 to May 2011)</p>
+
+<h3>EDUCATION:</h3>
+
+<h4><p class="tab">Master of Public Policy (2010) from the College of William and Mary</p>
+<p class="tab">Master of Science (2010) from the College of William and Mary</p></h4>
+
+Thesis: The Toxicology of Decabromodiphenyl Ether in Avian Embryos: Disposition of the Flame Retardant BDE-209 in Yolk-Injected Chicken Embryos (Gallus gallus)
+Used by the US Environmental Protection Agency (EPA) used to support the removal of the product (BDE-209) from the market.
+
+<h4><p class="tab">Bachelors of Science (2003) from the University of Massachusetts</p></h4>
+
+<h3>PEER-REVIEWED JOURNAL ARTICLES</h3>
+
+Shumaker, E. T., Doherty, I., Sifleet, S., Chapman, B., Pierce, A., Ham, M., & Kowalcyk, B. (2019). Risk Factors for Foodborne Illness in Temporary Eating Establishments in North Carolina. Food Protection Trends, 39(3), 218-224.
+
+Mazotta, M.J; Wainger, L.; Sifleet, S.; Petty J.T.; Rashleigh. B. (2015). Benefit transfer with limited data: An application to recreational fishing losses from surface mining. Ecological Economics (in press) doi:10.1016/j.ecolecon.2015.09.018
+
+Pendleton, L., Donato, D. C., Murray, B. C., Crooks, S., Jenkins, W. A., Sifleet, S. D., et al. (2012). Estimating global “blue carbon” emissions from conversion and degradation of vegetated coastal ecosystems. PLoS ONE, 7(9), e43542. doi:10.1371/journal.pone.0043542.
+
+Doccola, J. J, Bristol, E. B., Sifleet, S. D., Lojko, J., & Wild, P.M. (2007). Efficacy and duration of trunk-injected imidacloprid in the management of hemlock woolly adelgid. Arboriculture and Urban Forestry, 33(1), 12–21.
+
+Doccola, J. J., Ramasamy, I., Castillo, P., Taylor, C., & Sifleet, S. (2005) Efficacy of arborjet viper microinjections in the management of hemlock woolly adelgid (Adelges tsugae). Journal of Arboriculture, 31, (1), 203–206.
+
+<h3>PRESENTATIONS AND PROCEEDINGS</h3>
+
+Sifleet, S.D. (2016, May). Developing Shiny Applications: Using Leaflet in R. Presented at the Free and Open Source Software for Geopspatial (FOSS4G) Conference in Raleigh NC.
+
+Sifleet, S.D. (2014, April). Incorporating values and assessing social and environmental trade-offs in managing for ecosystem services. Presented during a workshop at Estimating Recreation Demand in the EnviroAtlas, Socio-Environmental Synthesis Center (SESYNC), Annapolis, MD (remote).
+
+Sifleet, S. D. (2013, August). A standard assessment framework for ecosystem services. Presented during a workshop at EnviroAtlas: Connecting Ecosystems, People, and Wellbeing, National Center for Ecological Analysis and Synthesis (NCEAS), Santa Barbara, CA.
+
+Sifleet, S., Neale, A., Wainger, L., & Mehaffey, M. (2013, July). Measuring ecosystem rarity to target conservation efforts. Presented at the International Congress for Conservation Biology, Baltimore, MD.
+
+Sifleet, S. D. S., McKernan, M., Rattner, B., Hale, R. C., LaGuardia, M., & Luellen, D. (2009, June). Presented at a platform session of the 19th Annual Meeting of Society of Environmental Toxicology and Chemistry (SETAC) Europe, Göteborg, Sweden.
+
+Sifleet, S. D. S., McKernan, M., Rattner, B., Hale, R. C., LaGuardia, M., & Luellen D. (2008). Comparative species analysis using PCA of biotransformation and distribution of BDE-209 in yolk-injected chickens (Gallus gallus), kestrels (Falco Sparverius), and mallards (Anas platyrhynchos). Poster presented at the 29th Annual North American Meeting of the Society of Environmental Toxicology and Chemistry (SETAC), Tampa, FL.
+
+<h3>TECHNICAL REPORTS</h3>
+
+Sifleet, S. D. (2013, September). North American blue carbon scoping study. Prepared for the Commission for Environmental Cooperation.
+
+Sifleet, S. D., Pendleton, L., & Murray, B. C. (2011, May). State of the science on coastal blue carbon: A summary for policy makers. Prepared for Duke University’s Nicholas Institute for Environmental Policy Solutions. NI R 11-06. 42 pages.
+
+Murray, B. C., Pendleton, L., Jenkins, W. A., & Sifleet, S.D. (2011, April). Green payments for blue carbon: Economic incentives for protecting threatened coastal habitats. Prepared for Duke University’s Nicholas Institute for Environmental Policy Solutions. NI R 11-04. 42 pages.
+
+Eagle, A. J., & Sifleet, S. D. (2011, April). T-AGG survey of experts: Scientific certainty associated with GHG mitigation potential of agricultural land management practices. Prepared for Duke University’s Nicholas Institute for Environmental Policy Solutions. NI R 11-05. 34 pages.

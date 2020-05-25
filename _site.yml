@@ -1,0 +1,21 @@
+name: "Emily C. Zabor"
+output_dir: "."
+navbar:
+  title: "Samantha D. Sifleet"
+  left:
+    - text: "Resume"
+      href: resume.html
+    - text: "Projects"
+      href: projects.html
+
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/sdsifleet
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/SamanthaSifleet
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/samantha-sifleet-039b851a/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
