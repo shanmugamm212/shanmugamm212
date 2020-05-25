@@ -9,11 +9,11 @@
 
 <br>
 
-I'm a Research Data Scientist specializing in decision making under uncertainty. I design and build econometric and machine learning solutions for complex problems.
+I’m an Aspiring Data Scientist specializing in machine learning solutions for complex problems.
 
-I completed my graduate education at The College of William and Mary where I studied Marine Science, Toxicology, and Public Policy.  My diverse research interests prepared me for a career in Data Science with exposure to multiple modeling and experimentation techniques.
+I completed my graduate education at Pondicherry University where I studied Information Technology. My diverse research interests prepared me for a career in Data Science with exposure to multiple modeling and experimentation techniques.
 
-After graduate school, I worked for several years as a geospatial modeler for the US EPA. This is where I honed my programming skills in both R and Python. From EPA I moved onto RTI International where I designed and built websites, decision support tools, and models for a variety of clients including the FDA, EPA, and Nature Conservancy amongst others.
+After graduation, I am working for 3 years as a Software Engineer for the Larsen & Toubro Infotech. This is where I honed my programming skills in Python, ABAP and NodeJS. I have built Chatbots using SAP Conversatioal AI from end-to-end, built websites to host chatbot and created model for Ticket classification
 
 
-<img src="files/sds_old.jpg">
+<img src="files/shanmugam.jpg">

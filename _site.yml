@@ -1,20 +1,20 @@
 name: "Emily C. Zabor"
 output_dir: "."
 navbar:
-  title: "Samantha D. Sifleet"
+  title: "Shanmugam Marimuthu"
   left:
     - text: "Resume"
-      href: resume.html
-    - text: "Projects"
       href: projects.html
+    - text: "Projects"
+      href: https://github.com/shanmugamm212/Data-Science-Portfolio
 
   right:
     - icon: fa-github fa-lg
-      href: http://github.com/sdsifleet
+      href: https://github.com/shanmugamm212/
     - icon: fa-twitter fa-lg
-      href: https://twitter.com/SamanthaSifleet
+      href: https://twitter.com/shanmugam_m212
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/samantha-sifleet-039b851a/
+      href: https://www.linkedin.com/in/shanmugam-marimuthu-771aa818a/
 output:
   html_document:
     theme: paper
