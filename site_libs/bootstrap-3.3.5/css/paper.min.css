@@ -22,6 +22,10 @@
   font-weight: 700;
   src: url(fonts/RobotoBold.ttf) format('truetype');
 }
+#resume-download {
+  margin-top: 1rem;
+  text-align: center;
+}
 
 /*!
  * bootswatch v3.3.6
