@@ -13,7 +13,7 @@ I’m an Aspiring Data Scientist specializing in machine learning solutions for 
 
 I completed my graduate education at Pondicherry University where I studied Information Technology. My diverse research interests prepared me for a career in Data Science with exposure to multiple modeling and experimentation techniques.
 
-After graduation, I am working for 3 years as a Software Engineer for the Larsen & Toubro Infotech. This is where I honed my programming skills in Python, ABAP and NodeJS. I have built Chatbots using SAP Conversatioal AI from end-to-end, built websites to host chatbot and created model for Ticket classification
+After graduation, I have been working for 3 years as a Software Engineer for the Larsen & Toubro Infotech. This is where I honed my programming skills in Python, ABAP and NodeJS. I have built Chatbots using SAP Conversational AI from end-to-end, built websites to host chatbot and created model for Ticket classification
 
 
 <img src="files/shanmugam.jpg">
